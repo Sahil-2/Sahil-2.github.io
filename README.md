@@ -1,4 +1,5 @@
 # Personal Webpage
 
 <!-- ABOUT THE PROJECT -->
-## This is my personal webpage: sahil-2.github.io
+## About the project
+This is my personal webpage: https://sahil-2.github.io/
